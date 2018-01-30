@@ -25,7 +25,7 @@ public class NumeroCeroyNueve {
         Num1 =(char)System.in.read();
         
         if(Num1>='0' && Num1<='9')
-            System.out.println(Num1 + " Es un número");
+            System.out.println(Num1 + " Es un número, esta bien");
         else
             System.out.println(Num1 + " No es un número");
      }
